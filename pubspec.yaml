@@ -1,6 +1,6 @@
 name: bm_security_plugin
 description: Flutter root and jailbreak detection plugin. This plugin is a wrapper for Rootbeer (Android) and IOSSecuritySuite (iOS).
-version: 1.0.7
+version: 1.0.8
 homepage: https://brickmakers.de
 
 environment:
